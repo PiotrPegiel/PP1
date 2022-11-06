@@ -1,0 +1,68 @@
+1.1:
+What is the function of the secondary memory in a computer?
+x) Execute all of the computation and logic of the program
+x) Retrieve web pages over the Internet
+c) Store information for the long term, even beyond a power cycle
+x) Take input from the user
+
+1.2:
+Program is a sequence of Python statements
+that have been crafted to do something.
+
+1.3:
+Interpreter - interpretuje kod "na żywo", linijka po linijce. Co sprawia że można niejako stale prowadzić rozmowę z interpreterem
+Compiler - bierze gotowy i zapisany kod i kompiluje jego całość do innego pliku który może zostać rozczytany przez maszynę. Zazwyczaj do rozszerzenia .exe
+
+1.4:
+Which of the following contains “machine code”?
+a) The Python interpreter
+x) The keyboard
+x) Python source file
+x) A word processing document
+
+1.5:
+- Instrukcja primt nie jest rozpoznawalna przez interpreter
+- Parametry powinny znajdować się w nawiasach
+
+1.6:
+Where in the computer is a variable such as “x” stored after
+the following Python line finishes?
+x = 123
+x) Central processing unit
+b) Main Memory
+x) Secondary Memory
+x) Input Devices
+x) Output Devices
+
+1.7:
+What will the following program print out:
+x = 43
+x = x + 1
+print(x)
+x) 43
+b) 44
+x) x + 1
+x) Error because x = x + 1 is not possible mathematically
+
+1.8:
+Explain each of the following using an example of a human capability:
+(1) Central processing unit - Brain
+(2) Main Memory - Short-term memory
+(3) Secondary Memory - Long-term memory
+(4) Input Device - Eyes, ears, etc.
+(5) Output Device - Hands, Legs, vocal cords, etc.
+
+1.9:
+To fix a syntax error you have to check your grammar
+
+
+2.4:
+Assume that we execute the following assignment statements:
+width = 17
+height = 12.0
+For each of the following expressions, write the value of the expression and the
+type (of the value of the expression).
+1. width//2   = 8 - int
+2. width/2.0  = 8.0 - float
+3. height/3   = 4.0 - float
+4. 1 + 2 * 5  = 11 - int
