@@ -11,4 +11,3 @@ def f(number, even):
         else:
             number//=10
     return sum
-print(f(3124,False))
