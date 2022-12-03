@@ -1,0 +1,77 @@
+[
+    {
+        "Id": 1,
+        "Nazwa_produktu": "Trippledex",
+        "Nazwa_producenta": "Mayert-Cassin"
+    },
+    {
+        "Id": 2,
+        "Nazwa_produktu": "Greenlam",
+        "Nazwa_producenta": "Lebsack and Sons"
+    },
+    {
+        "Id": 3,
+        "Nazwa_produktu": "Y-Solowarm",
+        "Nazwa_producenta": "Mitchell, Walter and Ziemann"
+    },
+    {
+        "Id": 4,
+        "Nazwa_produktu": "Domainer",
+        "Nazwa_producenta": "Maggio-Watsica"
+    },
+    {
+        "Id": 5,
+        "Nazwa_produktu": "Stringtough",
+        "Nazwa_producenta": "Effertz-Dach"
+    },
+    {
+        "Id": 6,
+        "Nazwa_produktu": "Tres-Zap",
+        "Nazwa_producenta": "Graham, Reichel and Kautzer"
+    },
+    {
+        "Id": 7,
+        "Nazwa_produktu": "Domainer",
+        "Nazwa_producenta": "Kris, Price and Ryan"
+    },
+    {
+        "Id": 8,
+        "Nazwa_produktu": "Domainer",
+        "Nazwa_producenta": "Kuhic-Nienow"
+    },
+    {
+        "Id": 9,
+        "Nazwa_produktu": "Regrant",
+        "Nazwa_producenta": "Hahn-Ortiz"
+    },
+    {
+        "Id": 10,
+        "Nazwa_produktu": "Prodder",
+        "Nazwa_producenta": "Ortiz Inc"
+    },
+    {
+        "Id": 11,
+        "Nazwa_produktu": "Bamity",
+        "Nazwa_producenta": "Adams LLC"
+    },
+    {
+        "Id": 12,
+        "Nazwa_produktu": "Bamity",
+        "Nazwa_producenta": "Fritsch, Rath and Braun"
+    },
+    {
+        "Id": 13,
+        "Nazwa_produktu": "Biodex",
+        "Nazwa_producenta": "Osinski, Streich and Torp"
+    },
+    {
+        "Id": 14,
+        "Nazwa_produktu": "Treeflex",
+        "Nazwa_producenta": "Shields, Mayer and Zulauf"
+    },
+    {
+        "Id": 15,
+        "Nazwa_produktu": "Zaam-Dox",
+        "Nazwa_producenta": "Gaylord Inc"
+    }
+]

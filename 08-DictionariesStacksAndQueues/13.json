@@ -1,0 +1,28 @@
+{
+    "name": "Piotr",
+    "surname": "Pęgiel",
+    "id": true,
+    "pesel": 55555555555,
+    "studies": [
+        "it",
+        "admin"
+    ],
+    "grades": [
+        {
+            "name": "it",
+            "grade": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "admin",
+            "grade": [
+                3,
+                2,
+                1
+            ]
+        }
+    ]
+}
