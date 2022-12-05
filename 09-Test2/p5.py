@@ -1,11 +1,10 @@
-def f(fir,las):
-    import re
-    with open("test.txt", "r", encoding="utf-8") as f:
-        data = f.read()
-        data = re.split("\W",data)
-        count=0
+def f(n,s):
+    import csv
+    arr=[]
+    with open("data.csv") as fil:
+        data = csv.reader(fil, delimiter=",")
         for i in data:
-            if(re.match(f"^{fir}\w*{las}$",i)):
-                count+=1
-        return count
-print(f("w","d"))
+            arr.append(i)
+    for i in range(1,len(arr)):
+        if arr[i][0]==n and arr[i][1]==s:
+            return [arr[i][2],arr[i][13]]

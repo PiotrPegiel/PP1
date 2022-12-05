@@ -1,9 +1,14 @@
-def f(age):
-    sum=0
-    for i in range(age):
-        if i==0 or i==1:
-            sum+=10
-        else:
-            sum+=4
-    return sum
-#print(f(15))
+def f(a,b,c,d):
+    count=0
+    if a<0:
+        count+=1
+    if b<0:
+        count+=1
+    if c<0:
+        count+=1
+    if d<0:
+        count+=1
+    if count==2:
+        return True
+    else:
+        return False
